@@ -2,7 +2,6 @@
   "$schema": "./node_modules/nx/schemas/workspace-schema.json",
   "version": 2,
   "projects": {
-    "nextjs-rainbow": "apps/nextjs-rainbow",
-    "nextjs-rainbow-e2e": "apps/nextjs-rainbow-e2e"
+    "nextjs-rainbow": "apps/nextjs-rainbow"
   }
 }
